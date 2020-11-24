@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mini-Project-Sorting-Visualizer/static/css/main.aa88c6b0.chunk.css",
+    "main.js": "/Mini-Project-Sorting-Visualizer/static/js/main.7fde5014.chunk.js",
+    "main.js.map": "/Mini-Project-Sorting-Visualizer/static/js/main.7fde5014.chunk.js.map",
+    "runtime-main.js": "/Mini-Project-Sorting-Visualizer/static/js/runtime-main.3f3558d4.js",
+    "runtime-main.js.map": "/Mini-Project-Sorting-Visualizer/static/js/runtime-main.3f3558d4.js.map",
+    "static/js/2.3aa08c77.chunk.js": "/Mini-Project-Sorting-Visualizer/static/js/2.3aa08c77.chunk.js",
+    "static/js/2.3aa08c77.chunk.js.map": "/Mini-Project-Sorting-Visualizer/static/js/2.3aa08c77.chunk.js.map",
+    "index.html": "/Mini-Project-Sorting-Visualizer/index.html",
+    "static/css/main.aa88c6b0.chunk.css.map": "/Mini-Project-Sorting-Visualizer/static/css/main.aa88c6b0.chunk.css.map",
+    "static/js/2.3aa08c77.chunk.js.LICENSE.txt": "/Mini-Project-Sorting-Visualizer/static/js/2.3aa08c77.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f3558d4.js",
+    "static/js/2.3aa08c77.chunk.js",
+    "static/css/main.aa88c6b0.chunk.css",
+    "static/js/main.7fde5014.chunk.js"
+  ]
+}
