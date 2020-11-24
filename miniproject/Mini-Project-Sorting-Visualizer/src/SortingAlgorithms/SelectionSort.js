@@ -8,8 +8,7 @@ export default function SelectionSort(arr){
                 minIndex = j;
                 animations.push([i, minIndex, false]);
             }
-        }
-        
+        }   
         let temp = array[i];
         array[i] = array[minIndex];
         array[minIndex] = temp;
