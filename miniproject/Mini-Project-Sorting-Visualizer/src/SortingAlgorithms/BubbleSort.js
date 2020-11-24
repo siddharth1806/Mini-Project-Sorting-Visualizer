@@ -11,7 +11,6 @@ export default function BubbleSort(array){
                 animations.push([i, i + 1]);
                 hasChanged = true;
             }
-            
         }
         if(!hasChanged)
             break;
