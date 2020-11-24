@@ -1,7 +1,5 @@
 import React from 'react';
-
 import SortingVisualizer from './SortingVisualizer/SortingVisualizer.jsx'
-
 function App() {
   return (
     <div>
@@ -9,5 +7,4 @@ function App() {
     </ div>
   );
 }
-
 export default App;
