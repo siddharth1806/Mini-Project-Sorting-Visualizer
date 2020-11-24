@@ -5,7 +5,7 @@ import SelectionSort from '../SortingAlgorithms/SelectionSort'
 import BubbleSort from '../SortingAlgorithms/BubbleSort'
 import GetQuickSortAnimation from '../SortingAlgorithms/QuickSort'
 
-const NORMAL_COLOR = '#900c3f';
+const NORMAL_COLOR = '#30ab27';
 const CHANGED_COLOR = '#51ff00';
 const AFTER_CHANGE_COLOR = '#ff5733';
 
