@@ -15,7 +15,6 @@ function QuickSort(arr, low, high){
     }
 }
 
-
 function Partition(arr, low, high){
     let i = low - 1;//smaller element
     for (let index = low; index <= high - 1; index++) {
