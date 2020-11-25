@@ -6,7 +6,6 @@ export default function GetQuickSortAnimation(array){
         QuickSort(arr, 0, arr.length - 1);
         return animations;
 }
-
 function QuickSort(arr, low, high){
     
     if(low < high){
