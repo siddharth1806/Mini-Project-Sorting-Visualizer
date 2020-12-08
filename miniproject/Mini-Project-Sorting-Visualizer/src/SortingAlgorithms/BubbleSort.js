@@ -1,6 +1,7 @@
 export default function BubbleSort(array){
     let arr = array.slice(0);
     let animations = []
+    //Code for bubble sort.
     while(true){
         let hasChanged = false;
         for (let i = 0; i < arr.length - 1; i++) {
